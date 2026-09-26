@@ -1,4 +1,5 @@
-<div align="center"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<div align="center"><img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/f3ccea6c-1ba2-48e9-96a9-506d7ed416d0" />
+ <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 <h2>👋 Hi there!</h2><h3>CS Student | C# | Aspiring .NET Developer</h3>📍 Boumerdes, Algeria
