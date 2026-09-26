@@ -1,6 +1,6 @@
-<div align="center"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
+<div align="center"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Friend" width="60%"/>
  <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
+<img src="animation.gif.gif" alt="Hello Coders" width="60%"/><br>
 
 <h2>👋 Hi there!</h2><h3>CS Student | C# | Aspiring .NET Developer</h3>📍 Boumerdes, Algeria
 
